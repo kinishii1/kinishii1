@@ -1,7 +1,7 @@
-<img src="https://media.giphy.com/media/10nM2EN6kCgMbS/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Estudante de Desenvolvimento Full Stack na Trybe, viciado em tecnologia. Sou um iniciante buscando aprimorar minhas habilidades e conhecimentos em desenvolvimento web. Tenho uma paixão por criar projetos interessantes e estou sempre ansioso para aprender novas tecnologias e técnicas. Se você está interessado em colaborar em projetos empolgantes ou compartilhar experiências no mundo da programação, sinta-se à vontade para me conectar!
+Estudante de Desenvolvimento Full Stack na Trybe e um viciado por tecnologia. :beginner: Iniciante buscando aprimorar minhas habilidades e conhecimentos em desenvolvimento web. Tenho uma paixão por criar projetos interessantes e estou sempre ansioso para aprender novas tecnologias e técnicas. Se você está interessado em colaborar em projetos empolgantes ou compartilhar experiências no mundo da programação, sinta-se à vontade para me conectar!
 </p>
 
 <p align="left">
@@ -9,7 +9,15 @@ Estudante de Desenvolvimento Full Stack na Trybe, viciado em tecnologia. Sou um 
 </p>
 
 <p align="left">
+  :pray: Sonhos e metas:  :jp: trabalhar e morar no japão 
+</p>
+
+<p align="left">
   💼 Ferramentas: Vscode figma 
+</p>
+
+<p align="left">
+  :muscle: Aprendendo: React 
 </p>
 
 <p align="left">
