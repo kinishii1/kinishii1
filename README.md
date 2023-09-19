@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://github.com/kinishii1"><img src="https://github-readme-stats.vercel.app/api?username=kinishii1&hide_border=true&show_icons=true"></a>
+</p>
+
 <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
