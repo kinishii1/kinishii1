@@ -9,7 +9,7 @@ Estudante de Desenvolvimento Full Stack na Trybe e um viciado por tecnologia. :b
 </p>
 
 <p align="left">
-  🦄 Linguagens: Html Css Javascript 
+  🦄 Linguagens: Html Css Javascript Sass
 </p>
 
 <p align="left">
