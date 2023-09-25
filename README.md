@@ -25,15 +25,19 @@ Estudante de Desenvolvimento Full Stack na Trybe e um viciado por tecnologia. :b
 </p>
 
 <p align="left">
-  🦄 Linguagens: 
-</p>
-
-<p align="left">
   :pray: Sonhos e metas:  :jp: trabalhar e morar no japão 
 </p>
 
+
 <p align="left">
-  💼 Ferramentas: <p align="center">
+  🦄 Linguagens: <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript," />
+  </a>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,figma,sass,vscode" />
   </a>
@@ -41,7 +45,11 @@ Estudante de Desenvolvimento Full Stack na Trybe e um viciado por tecnologia. :b
 </p>
 
 <p align="left">
-  :muscle: Aprendendo: React 
+  :muscle: Aprendendo: <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+</p>
 </p>
 
 <p align="left">
