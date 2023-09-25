@@ -25,7 +25,7 @@ Estudante de Desenvolvimento Full Stack na Trybe e um viciado por tecnologia. :b
 </p>
 
 <p align="left">
-  🦄 Linguagens: Html Css Javascript Sass
+  🦄 Linguagens: 
 </p>
 
 <p align="left">
@@ -33,7 +33,11 @@ Estudante de Desenvolvimento Full Stack na Trybe e um viciado por tecnologia. :b
 </p>
 
 <p align="left">
-  💼 Ferramentas: Vscode figma 
+  💼 Ferramentas: <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,figma,sass,vscode" />
+  </a>
+</p>
 </p>
 
 <p align="left">
