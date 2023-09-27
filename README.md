@@ -21,7 +21,7 @@
 <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Estudante de Desenvolvimento Full Stack na Trybe e um viciado por tecnologia. :beginner: Iniciante buscando aprimorar minhas habilidades e conhecimentos em desenvolvimento web. Tenho uma paixão por criar projetos divertidos e estou sempre procurando aprender novas tecnologias e técnicas. Se você está interessado em colaborar em projetos empolgantes ou compartilhar experiências no mundo da programação, sinta-se à vontade para me conectar!
+Estudante de Desenvolvimento Full Stack na Trybe e um viciado por tecnologia. :beginner: Iniciante buscando aprimorar minhas habilidades e conhecimentos em desenvolvimento web. Tenho paixão por criar projetos divertidos e estou sempre procurando aprender novas tecnologias e técnicas. Se você está interessado em colaborar em projetos ou compartilhar experiências no mundo da programação, sinta-se à vontade para se conectar!
 </p>
 
 <p align="left">
