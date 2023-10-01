@@ -32,7 +32,7 @@ Estudante de Desenvolvimento Full Stack na Trybe e um viciado por tecnologia. :b
 <p align="left">
   🦄 Linguagens: <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript," />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
   </a>
 </p>
 
