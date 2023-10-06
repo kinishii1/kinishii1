@@ -47,7 +47,7 @@ Estudante de Desenvolvimento Full Stack na Trybe e um viciado por tecnologia. :b
 <p align="left">
   :muscle: Aprendendo: <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=react,redux" />
   </a>
 </p>
 </p>
