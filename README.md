@@ -62,3 +62,5 @@ Estudante de Desenvolvimento Full Stack na Trybe e um viciado por tecnologia. :b
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
 </p>
+
+ ![](https://komarev.com/ghpvc/?username=kinishii1&color=yellowgreen)
