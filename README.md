@@ -1,6 +1,9 @@
 <p align="center">
   <!--- stats (start) -->
   
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kinishii1&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinishii1&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
@@ -52,3 +55,7 @@ Estudante de Desenvolvimento Full Stack na Trybe e um viciado por tecnologia. :b
 </p>
 
  ![](https://komarev.com/ghpvc/?username=kinishii1&color=yellowgreen)
+
+ <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=kinishii1&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
