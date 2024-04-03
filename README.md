@@ -23,7 +23,9 @@
   
   <a href="https://www.linkedin.com/in/kinishii/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- 
+  
+   <a href="https://kinishii1.github.io/resume/" alt="Resume">
+  <img src="https://img.shields.io/badge/My-Resume-blue" /></a>
 </p>
 
 <hr>
